@@ -74,8 +74,19 @@ header {
   display: flex;
   align-items: baseline;
 }
-.circle,  .square, .right-angle {
-  
+.subheader1a, .circle {
+  height: 50px;
+  width: 50px;
+  background-color: #58D68D;
+  border-radius: 50%;
+}
+.subheader2a, .square {
+  height: 50px;
+  width: 50px;
+  background-color: #58D68D;
+  border-radius: 50%;
+}
+.subheader3a, .right-angle {
   height: 50px;
   width: 50px;
   background-color: #58D68D;
