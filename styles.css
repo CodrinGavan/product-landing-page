@@ -74,25 +74,14 @@ header {
   display: flex;
   align-items: baseline;
 }
-.subheader1a, .circle {
+.circle,  .square, .right-angle {
   
   height: 50px;
   width: 50px;
   background-color: #58D68D;
   border-radius: 50%;
 }
-.subheader2a, .square {
-  height: 50px;
-  width: 50px;
-  background-color: #58D68D;
-  
-}
-.subheader3a, .right-angle {
-  height: 60px;
-  width: 50px;
-  background-color: #58D68D;
-  
-}
+
 .subheader2 {
   display: flex;
   gap: 80px;
